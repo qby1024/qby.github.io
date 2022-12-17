@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://github.com/qby1024/test.git/post/my-first-post/</loc>
+    <lastmod>2022-12-17T23:48:59+08:00</lastmod>
+  </url><url>
+    <loc>https://github.com/qby1024/test.git/</loc>
+    <lastmod>2022-12-17T23:48:59+08:00</lastmod>
+  </url><url>
+    <loc>https://github.com/qby1024/test.git/post/</loc>
+    <lastmod>2022-12-17T23:48:59+08:00</lastmod>
+  </url><url>
+    <loc>https://github.com/qby1024/test.git/about/</loc>
+    <lastmod>2022-12-17T23:48:41+08:00</lastmod>
+  </url><url>
+    <loc>https://github.com/qby1024/test.git/categories/</loc>
+  </url><url>
+    <loc>https://github.com/qby1024/test.git/tags/</loc>
+  </url>
+</urlset>
